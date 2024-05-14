@@ -1,6 +1,7 @@
 import csv
 
 def lire_pokemon_csv(pokemon):
+<<<<<<< HEAD
 
     pokemon_stats = {}
 
@@ -13,5 +14,6 @@ def lire_pokemon_csv(pokemon):
             pokemon_stats[nom_pokemon] = stats_int
 
     return pokemon_stats
+
 
 
