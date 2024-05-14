@@ -17,3 +17,4 @@ def lire_pokemon_csv(pokemon):
 
 
 
+
