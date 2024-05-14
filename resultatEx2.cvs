@@ -1,0 +1,1 @@
+Pokemon = {'pikachu : ( HP 35)( ATTAQUE : 55 )( DEFENSE 30 )( SP ATTAQUE 50 )( SP DEFENSE 40)(VITESSE 90)': '', 'Charizard : ( HP 78)( ATTAQUE : 84 )( DEFENSE 78 )( SP ATTAQUE 109 )( SP DEFENSE 85 )(VITESSE 100)': '', 'Magikarp: ( HP 20)( ATTAQUE : 10 )( DEFENSE 55 )( SP ATTAQUE 15 )( SP DEFENSE 20)(VITESSE 80)': ''}
